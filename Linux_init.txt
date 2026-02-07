@@ -10,3 +10,4 @@ Install vivado (if necessary)
 !!!!! KALI INSTALLATION !!!!!
 - OS: linux
 - Distro: Debian (64-bit)
+Make sure this is implemented. Otherwise it will get stuck at "disk partitioning"
