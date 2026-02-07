@@ -1,0 +1,10 @@
+1. Install VM as usual
+(For Ubuntu)
+1. sudo apt install build-essential
+2. sudo apt install tar / sudo apt install bzip2
+
+(VBx_GAs)
+1. From the VM GUI, open the "Devices" tab and select "Insert Guest Additions..."
+2. Open the drive directory.
+3. Open terminal here.
+4. sudo ./VBoxLinuxAdditions.run

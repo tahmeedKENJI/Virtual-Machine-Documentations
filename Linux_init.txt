@@ -1,0 +1,8 @@
+sudo apt install git
+sudo apt install build-essential
+sudo apt install gawk
+sudo apt install make
+sudo apt install tree
+
+Install VS Code
+Install vivado (if necessary)
